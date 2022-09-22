@@ -1,0 +1,40 @@
+[state]
+SET_FLEET A 0 1 0 0
+SET_FLEET B 0 0 1 0
+NEXT_PLAYER A
+EXTENDED_SHIPS
+[state]
+
+[playerA]
+PLACE_SHIP 9 4 W 0 BAT
+[playerA]
+[playerB]
+PLACE_SHIP 11 5 W 0 CRU
+[playerB]
+
+[state]
+PRINT 0
+[state]
+
+[playerA]
+SHOOT 0 BAT 11 5
+SHOOT 0 BAT 11 7
+[playerA]
+[state]
+PRINT 0
+[state]
+[playerB]
+SHOOT 0 CRU 9 4
+SHOOT 0 CRU 9 5
+SHOOT 0 CRU 9 6
+[playerB]
+[state]
+PRINT 0 
+[state]
+[playerA]
+[playerA]
+[playerB]
+SHOOT 0 CRU 9 7
+SHOOT 0 CRU 9 8
+[playerB]
+

@@ -1,0 +1,30 @@
+[state]
+SET_FLEET A 1 1 0 1
+SET_FLEET B 0 1 1 0
+[state]
+
+[playerA]
+PLACE_SHIP 9 4 W 0 BAT
+PLACE_SHIP 9 0 W 0 DES
+PLACE_SHIP 5 9 N 0 CAR
+[playerA]
+[playerB]
+PLACE_SHIP 11 7 W 0 CRU
+PLACE_SHIP 11 4 E 0 BAT
+[playerB]
+
+[state]
+PRINT 0
+[state]
+[playerA]
+PRINT 0 
+SPY 0 0 0
+PRINT 0
+SPY 0 1 1
+PRINT 0 
+SPY 0 17 4
+SPY 0 19 8
+SPY 0 11 8
+PRINT 0
+[playerA]
+

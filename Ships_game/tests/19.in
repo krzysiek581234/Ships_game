@@ -1,0 +1,19 @@
+[state]
+BOARD_SIZE 16 16
+SET_FLEET A 1 1 0 0
+SET_FLEET B 0 0 1 1
+INIT_POSITION A 0 0 5 5
+INIT_POSITION B 7 7 15 9
+[state]
+[playerA]
+PLACE_SHIP 0 0 N 0 CAR
+PLACE_SHIP 2 2 W 0 BAT
+[playerA]
+[playerB]
+PLACE_SHIP 9 9 N 0 CRU
+PLACE_SHIP 7 7 W 0 DES
+[playerB]
+
+[state]
+PRINT 0
+[state]

@@ -1,0 +1,7 @@
+[playerA]
+PLACE_SHIP 0 0 N 0 CAR
+PLACE_SHIP 0 3 N 0 CAR
+[playerA]
+[state]
+PRINT 0
+[state]

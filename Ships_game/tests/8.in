@@ -1,0 +1,40 @@
+[state]
+SET_FLEET A 0 1 0 0
+SET_FLEET B 0 0 1 1
+[state]
+[playerA]
+PLACE_SHIP 6 0 N 0 BAT
+[playerA]
+[playerB]
+PLACE_SHIP 16 0 N 0 CRU
+PLACE_SHIP 16 2 N 0 DES
+[playerB]
+
+[state]
+PRINT 0
+[state]
+
+[playerA]
+SHOOT 17 0
+[playerA]
+[playerB]
+SHOOT 7 0
+[playerB]
+
+[state]
+PRINT 0
+[state]
+
+[playerA]
+SHOOT 16 0
+[playerA]
+[playerB]
+SHOOT 6 0
+[playerB]
+
+[playerA]
+SHOOT 16 0
+[playerA]
+[playerB]
+SHOOT 6 0
+[playerB]

@@ -1,0 +1,12 @@
+[state]
+SHIP A 0 0 N 0 CAR 11101
+SHIP A 9 0 S 0 DES 10
+SHIP A 0 9 E 0 BAT 1001
+SHIP A 9 7 W 0 CRU 111
+
+SHIP B 14 3 E 0 BAT 1001 
+NEXT_PLAYER A
+[state]
+[state]
+PRINT 0
+[state]

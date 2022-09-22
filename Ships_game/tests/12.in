@@ -1,0 +1,243 @@
+[playerA]
+PLACE_SHIP 0 0 N 0 CAR
+
+PLACE_SHIP 6 0 N 0 BAT
+PLACE_SHIP 6 2 N 1 BAT
+
+PLACE_SHIP 9 4 S 0 CRU
+PLACE_SHIP 4 4 S 1 CRU
+PLACE_SHIP 6 6 S 2 CRU
+
+PLACE_SHIP 0 9 E 0 DES
+PLACE_SHIP 2 7 W 1 DES
+PLACE_SHIP 7 8 W 2 DES
+PLACE_SHIP 9 9 E 3 DES
+[playerA]
+
+[playerB]
+PLACE_SHIP 11 6 N 0 CAR
+
+PLACE_SHIP 16 0 N 0 BAT
+PLACE_SHIP 16 2 N 1 BAT
+
+PLACE_SHIP 14 0 S 0 CRU
+PLACE_SHIP 14 2 S 1 CRU
+PLACE_SHIP 14 4 S 2 CRU
+
+PLACE_SHIP 11 9 E 0 DES
+PLACE_SHIP 20 5 W 1 DES
+PLACE_SHIP 15 8 W 2 DES
+PLACE_SHIP 17 9 E 3 DES
+[playerB]
+
+[playerA]
+SHOOT 13 1
+[playerA]
+[playerB]
+SHOOT 0 0
+[playerB]
+[playerA]
+SHOOT 0 0
+[playerA]
+
+
+[playerB]
+SHOOT 0 8
+[playerB]
+[playerA]
+SHOOT 11 8
+[playerA]
+[playerB]
+SHOOT 0 9
+[playerB]
+[playerA]
+SHOOT 11 9
+[playerA]
+[playerB]
+SHOOT 0 7
+[playerB]
+
+[playerA]
+SHOOT 12 0
+[playerA]
+[playerB]
+SHOOT 1 0
+[playerB]
+[playerA]
+SHOOT 12 2
+[playerA]
+[playerB]
+SHOOT 2 0
+[playerB]
+[playerA]
+SHOOT 12 4
+[playerA]
+[playerB]
+SHOOT 2 4
+[playerB]
+[playerA]
+SHOOT 12 6
+[playerA]
+[playerB]
+SHOOT 2 7
+[playerB]
+[playerA]
+SHOOT 12 6
+[playerA]
+[playerB]
+SHOOT 2 8
+[playerB]
+
+[playerA]
+SHOOT 13 0
+[playerA]
+[playerB]
+SHOOT 3 0
+[playerB]
+[playerA]
+SHOOT 13 2
+[playerA]
+[playerB]
+SHOOT 3 4
+[playerB]
+[playerA]
+SHOOT 13 4
+[playerA]
+[playerB]
+SHOOT 4 0
+[playerB]
+[playerA]
+SHOOT 13 6
+[playerA]
+[playerB]
+SHOOT 4 4
+[playerB]
+[playerA]
+SHOOT 14 0
+[playerA]
+[playerB]
+SHOOT 4 6
+[playerB]
+
+[state]
+PRINT 0
+[state]
+
+[playerA]
+SHOOT 14 2
+[playerA]
+[playerB]
+SHOOT 5 6
+[playerB]
+[playerA]
+SHOOT 14 4
+[playerA]
+[playerB]
+SHOOT 6 0
+[playerB]
+[playerA]
+SHOOT 14 6
+[playerA]
+[playerB]
+SHOOT 6 2
+[playerB]
+[playerA]
+SHOOT 15 6
+[playerA]
+[playerB]
+SHOOT 6 6
+[playerB]
+[playerA]
+SHOOT 15 8
+[playerA]
+[playerB]
+SHOOT 7 0
+[playerB]
+[playerA]
+SHOOT 15 9
+[playerA]
+[playerB]
+SHOOT 7 2
+[playerB]
+
+[state]
+PRINT 0
+[state]
+
+[playerA]
+SHOOT 16 0
+[playerA]
+[playerB]
+SHOOT 7 4
+[playerB]
+[playerA]
+SHOOT 16 2
+[playerA]
+[playerB]
+SHOOT 7 8
+[playerB]
+[playerA]
+SHOOT 17 0
+[playerA]
+[playerB]
+SHOOT 7 9
+[playerB]
+[playerA]
+SHOOT 17 2
+[playerA]
+[playerB]
+SHOOT 8 0
+[playerB]
+[playerA]
+SHOOT 17 8
+[playerA]
+[playerB]
+SHOOT 8 2
+[playerB]
+[playerA]
+SHOOT 17 9
+[playerA]
+[playerB]
+SHOOT 8 4
+[playerB]
+
+[state]
+PRINT 0
+[state]
+
+[playerA]
+SHOOT 18 0
+[playerA]
+[playerB]
+SHOOT 9 0
+[playerB]
+[playerA]
+SHOOT 18 2
+[playerA]
+[playerB]
+SHOOT 9 2
+[playerB]
+[playerA]
+SHOOT 19 0
+[playerA]
+[playerB]
+SHOOT 9 4
+[playerB]
+[playerA]
+SHOOT 19 2
+[playerA]
+[playerB]
+SHOOT 9 8
+[playerB]
+[playerA]
+SHOOT 20 5
+[playerA]
+
+[state]
+PRINT 0
+[state]
+
+[playerB]
+SHOOT 9 9
+[playerB]
+

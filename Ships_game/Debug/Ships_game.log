@@ -1,0 +1,6 @@
+﻿  Ships_game.cpp
+D:\Projects\sem1\Ships_game\Ships_game\Ships_game.cpp(858,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects\sem1\Ships_game\Ships_game\Ships_game.cpp(1325,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects\sem1\Ships_game\Ships_game\Ships_game.cpp(1611,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Projects\sem1\Ships_game\Ships_game\Ships_game.cpp(1612,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Ships_game.vcxproj -> D:\Projects\sem1\Ships_game\Debug\Ships_game.exe

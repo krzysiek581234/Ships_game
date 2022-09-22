@@ -1,0 +1,59 @@
+[state]
+SET_FLEET A 0 1 0 0
+SET_FLEET B 0 0 1 0
+NEXT_PLAYER A
+[state]
+[playerA]
+PLACE_SHIP 4 4 N 0 BAT
+[playerA]
+[playerB]
+PLACE_SHIP 12 5 N 0 CRU
+[playerB]
+
+[state]
+PRINT 0
+[state]
+
+[playerA]
+MOVE 0 BAT L
+[playerA]
+[playerB]
+MOVE 0 CRU R
+[playerB]
+
+[state]
+PRINT 0
+[state]
+
+[playerA]
+MOVE 0 BAT L
+[playerA]
+[playerB]
+MOVE 0 CRU R
+[playerB]
+
+[state]
+PRINT 0
+[state]
+
+[playerA]
+MOVE 0 BAT L
+[playerA]
+[playerB]
+MOVE 0 CRU R
+[playerB]
+
+[state]
+PRINT 0
+[state]
+
+[playerA]
+MOVE 0 BAT L
+[playerA]
+[playerB]
+MOVE 0 CRU R
+[playerB]
+
+[state]
+PRINT 0
+[state]
