@@ -1,3 +1,4 @@
+Ps.  That was my first 'big project in c' so it was not written well.
 # Game of Ships
 The aim of the project is to write a simple game Battleship. Then extend it, so it will become
 interesting. Consult https://en.wikipedia.org/wiki/Battleship_(game) for an overview. The rules are
